@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+PyMuPDF
+python-dotenv
+tiktoken
+sentence-transformers
+torch
+transformers
+qdrant-client
+pydantic
+groq
+numpy
